@@ -1,0 +1,35 @@
+.first-name {
+    margin: 1px;
+    margin-bottom: 8px;
+    width: 100px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+}
+
+
+.email {
+    display: block;
+    margin-bottom: 8px;
+    width: 208px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+}
+
+button {
+    width: 208px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(40, 40, 212);
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+button:hover {
+    background-color: blue;
+    cursor: pointer;
+}

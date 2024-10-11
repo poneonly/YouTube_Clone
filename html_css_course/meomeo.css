@@ -1,0 +1,22 @@
+p {
+    font-size: 14px;
+    color: gray;
+}
+
+.text-box {
+    border-radius: 5px;
+    width: 350px;
+    height: 25px;
+}
+
+.join-button {
+    background: rgb(42, 42, 209);
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+
+}
